@@ -3,5 +3,7 @@ osman 2
 osman 3 b1
 osman 3 b2
 osman 4
+osman 5 b1
+osman 6 b1
 osman 7
 osman 8
